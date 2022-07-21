@@ -1,2 +1,2 @@
 # stepik_test_course
-Рomework for the course.
+Homework for the course.
